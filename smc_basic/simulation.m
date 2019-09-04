@@ -2,7 +2,7 @@
 inertia = eye(3);
 
 %------------- controller params -----------%
-K = eye(6)*5;
+K = eye(6)*25;
 Sig = eye(6);
 
 %------------- controller input ------------%
